@@ -365,7 +365,7 @@ span.button-icon{
 }
 
 .tcer{
-  background-image: url("/static/img/tcer.png");
+  background-image: url("../img/tcer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
